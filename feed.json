@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kevin Costa&#x27;s Music Page",
+    "description": "",
+    "home_page_url": "https://kcostamusic.github.io",
+    "feed_url": "https://kcostamusic.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kevin Costa"
+    },
+    "items": [
+        {
+            "id": "https://kcostamusic.github.io/buy-my-album.html",
+            "url": "https://kcostamusic.github.io/buy-my-album.html",
+            "title": "Listen to &quot;The Life Album Part 1&quot;",
+            "summary": "Click your preferred streaming service! ",
+            "content_html": "<p>Click your preferred streaming service! </p>",
+            "author": {
+                "name": "Kevin Costa"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-02T15:59:13-07:00",
+            "date_modified": "2024-06-02T19:48:33-07:00"
+        }
+    ]
+}
